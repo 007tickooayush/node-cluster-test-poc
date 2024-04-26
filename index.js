@@ -1,6 +1,4 @@
 
-// import express from 'express';
-// import { readFile } from 'node:fs/promises';
 const express = require('express');
 const { readFile }  = require('fs/promises');
 
